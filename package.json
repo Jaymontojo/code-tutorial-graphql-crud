@@ -1,0 +1,29 @@
+{
+  "name": "code-tutorial-graphql-crud",
+  "version": "1.0.0",
+  "description": "a tutorial of how to create a crud api in graphql using knex and postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaymontojo/code-tutorial-graphql-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaymontojo/code-tutorial-graphql-crud/issues"
+  },
+  "homepage": "https://github.com/Jaymontojo/code-tutorial-graphql-crud#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "knex": "^1.0.7",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
